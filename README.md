@@ -1,0 +1,2 @@
+# googlecontainer
+gcr.io
